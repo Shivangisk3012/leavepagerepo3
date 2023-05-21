@@ -1,0 +1,11 @@
+.pendingleave{
+    display: grid; 
+    padding-left: 5.3rem/* 84.8px */;
+    padding-right: 5.3rem/* 84.8px */;
+padding-top: 7rem; 
+margin-top: 3rem; 
+min-height: 100%; 
+grid-template-columns: repeat(3, minmax(0, 1fr)); 
+column-gap: 2.1rem/* 33.6px */;
+
+}
